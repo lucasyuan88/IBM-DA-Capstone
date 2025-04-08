@@ -69,8 +69,3 @@ Before starting this capstone project, it is recommended to complete the followi
 - **Lesson 3**: Course Summary  
 
 ---
-
-## Support and Contact
-If you encounter any issues during the course, feel free to reach out to your course instructor or the student support team!
-
-We wish you an enjoyable learning experience and success in your data analytics journey!
